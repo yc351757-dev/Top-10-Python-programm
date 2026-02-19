@@ -35,6 +35,6 @@ string = "hello"
 for char in string:
     print(char)
 #pass
-for i in range(5):
+for i in range(7):
     pass
 print("This is a placeholder for future code.") 
