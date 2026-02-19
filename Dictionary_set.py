@@ -11,7 +11,7 @@ my_dict["country"] = "USA"
 print(my_dict)
 
 #Updating a value
-my_dict["age"] = 38
+my_dict["age"] = 31
 print(my_dict)
 
 #Removing a key-value pair
